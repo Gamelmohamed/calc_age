@@ -119,14 +119,14 @@
 }
 
 .card__result {
-  font-size: 36px;
+  font-size: 24px;
   font-weight: var(--font-weight-extra-bold);
   font-style: italic;
   text-align: center;
 }
 
 .card__resultValue {
-  font-size: 36px;
+  font-size: 24px;
   /*font-weight: var(--font-weight-bold);*/
   color: var(--color-purple);
 }
